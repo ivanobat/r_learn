@@ -1,0 +1,17 @@
+"0","    "
+"0","     # loading in required packages"
+"0","    if (!require(""knitr"")) install.packages(""knitr""); library(knitr)"
+"2","Loading required package: knitr
+"
+"0","    if (!require(""rmarkdown"")) install.packages(""rmarkdown""); library(rmarkdown)"
+"2","Loading required package: rmarkdown
+"
+"0","    # some useful global defaults"
+"0","    opts_chunk$set(warning=FALSE, message=FALSE, include=TRUE, echo=TRUE, cache=FALSE, cache.comments=FALSE, comment='##')"
+"0",""
+"0","    # output specific defaults"
+"0","    output <- opts_knit$get(""rmarkdown.pandoc.to"")"
+"0","    if (output==""html"") opts_chunk$set(fig.width=10, fig.height=5)"
+"2","Error in if (output == ""html"") opts_chunk$set(fig.width = 10, fig.height = 5) : 
+  argument is of length zero
+"

@@ -1,0 +1,1 @@
+"0","lines(xseq, xseqpol[,1:4] %*% matrix(b3, ncol=1))"

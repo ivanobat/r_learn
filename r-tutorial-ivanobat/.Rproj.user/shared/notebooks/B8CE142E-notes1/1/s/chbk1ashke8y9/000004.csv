@@ -1,0 +1,1 @@
+"0","lines(xseq, sin(2*pi*xseq), col='gray')"

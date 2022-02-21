@@ -1,0 +1,2 @@
+"0","fit9= lm(y ~ -1 + xpol)"
+"0","b9= coef(fit9)"

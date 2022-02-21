@@ -1,0 +1,6 @@
+"0","xpol= matrix(NA, nrow= length(x), ncol=10)"
+"0","xseqpol= matrix(NA, nrow= length(xseq), ncol=10)"
+"0","for (j in 1:10) {"
+"0","    xpol[,j]= x^(j-1)"
+"0","    xseqpol[,j]= xseq^(j-1)"
+"0","}"

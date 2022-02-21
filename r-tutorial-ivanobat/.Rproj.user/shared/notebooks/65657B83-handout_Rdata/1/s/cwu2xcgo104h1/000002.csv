@@ -1,0 +1,7 @@
+"0","plot(mtcars$mpg, "
+"0","     main = ""Miles per gallon for selected cars"","
+"0","     ylab = ""mpg"", "
+"0","     pch = 16, "
+"0","     cex = 0.8, "
+"0","     ylim = c(0,max(mtcars$mpg))"
+"0","    )"

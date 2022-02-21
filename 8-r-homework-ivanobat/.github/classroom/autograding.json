@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "8-r-homework-autograde",
+      "setup": "",
+      "run": "Rscript test_exercises.R",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

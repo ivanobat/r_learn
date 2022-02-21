@@ -1,0 +1,4 @@
+"0","# create a matrix"
+"0","mat <- matrix(c(nvec, nvec, nvec), ncol = 3)"
+"2","Error in matrix(c(nvec, nvec, nvec), ncol = 3) : object 'nvec' not found
+"
